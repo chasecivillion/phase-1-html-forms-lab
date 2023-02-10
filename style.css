@@ -1,10 +1,17 @@
 form * {
   display: block;
-  width: 80%;
-  margin: 1em;
+  background-color: rgb(236, 204, 230);
+  width: 40%;
 }
 
 #checkbox {
   display:inline;
+  vertical-align: middle;
+  position: relative;
+}
 
+.headers {
+  background-color:rgb(233, 130, 181);
+  padding: 10px;
+  text-align: center
 }
